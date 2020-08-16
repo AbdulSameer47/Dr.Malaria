@@ -21,3 +21,4 @@ Neural network learns through back propagation. Top layers in the ResNet50 arenâ
  
 First take the blood sample from the patient on slide and place it under the foldscope. then launch the dr.malaria application and place the camera on the eyepiece of the foldscope such that microscopic image is clearly visible on the mobile screen then capture the image and press diagnose button which will predict whether the blood sample is infected or not infected as shown in Fig-6.
 
+![](https://github.com/AbdulSameer47/Dr.Malaria/blob/master/architecture.jpg)

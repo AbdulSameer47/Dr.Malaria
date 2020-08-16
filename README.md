@@ -16,5 +16,5 @@ Neural network learns through back propagation. Top layers in the ResNet50 arenâ
  
   
  
-Fig -4: shows the Summary of the model 
+
  

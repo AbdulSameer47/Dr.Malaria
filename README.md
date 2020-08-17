@@ -2,7 +2,7 @@
 Using deep learning, foldscope and mobile based application for detecting malaria parasite
 
 # Demo
-![Demo video]https://github.com/AbdulSameer47/Dr.Malaria/blob/master/DemoVideo.mp4
+
 
 
 # PROPOSED MODEL 
